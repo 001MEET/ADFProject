@@ -1,0 +1,15 @@
+{
+	"name": "adf-stshopeaydatameet",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "338fed9a-ab2b-40d4-ace5-d1f6148c1a1b",
+		"tenantId": "d1b99a31-59dc-4039-b9c4-f6166b6bf0a4"
+	}
+}
